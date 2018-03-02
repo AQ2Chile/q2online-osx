@@ -8,7 +8,7 @@ Q2Online OSX Launcher
 
 Just download from the [releases](https://github.com/AQ2Chile/q2online-osx/releases) tab.
 
-Copy the contents of the `bundle` folder into your `Applications` folder.
+Download Q2Online.app.zip, extract it and copy `Q2Online.app` to your `Applications` folder.
 
 ## Building it
 
